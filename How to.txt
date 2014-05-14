@@ -1,0 +1,5 @@
+There are globally defined veriable in Driver.java which can be changed to see the output of algorithm
+
+Note : I generated the map of cities randomly 
+
+You can change the coordinates in Driver.java to make bigger or smaller the map 
